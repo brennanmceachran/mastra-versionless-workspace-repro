@@ -1,0 +1,5 @@
+{
+  "name": "mastra-versionless-workspace-repro",
+  "private": true,
+  "packageManager": "pnpm@10.20.0"
+}
